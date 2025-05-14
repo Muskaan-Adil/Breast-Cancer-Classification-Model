@@ -1,4 +1,4 @@
-# 📊 Detailed Report – Breast Cancer Prediction using Logistic Regression
+# Detailed Report – Breast Cancer Detection using Classification Model
 
 ---
 
